@@ -9,4 +9,4 @@ def is_prime(n):
 
     return True
 
-print(is_prime(7))
+print(is_prime(7)) 
