@@ -1,8 +1,3 @@
-list1 = [1, 2, 7]
-list2 = [2, 4, 5]
+nums = list(map(int, input("Enter numbers: ").split()))
 
-result = list1 + list2
-
-result.sort()
-
-print(result)
+print(nums)
