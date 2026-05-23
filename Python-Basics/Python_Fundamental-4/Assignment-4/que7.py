@@ -7,7 +7,7 @@
 class Person:
 
     # Constructor
-    def __init__(self, name, age=None, address=None):
+    def __init__(self, name, age=None, address=None):#ye default parameters use karta hai, jisse hum multiple ways se object create kar sakte hain
 
         # Details store ki
         self.name = name
