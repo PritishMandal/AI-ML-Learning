@@ -32,7 +32,7 @@ data[new_city] = new_population
 with open("cities.json", "w") as f:
     json.dump(data, f)
 
-print("JSON file updated successfully")
+print("JSON file updated successfully")# ye line print kar rahi hai ki JSON file successfully update ho gayi hai
 
 
 # QUESTION:
