@@ -1,4 +1,4 @@
-while True:
+while True:# ye line infinite loop create kar rahi hai
     n = input("Enter number or Quit: ")
 
     if n == "Quit":
