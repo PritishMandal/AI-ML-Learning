@@ -5,7 +5,6 @@
 # 4. Print "File not found!"
 
 try:
-
     f = open("data.txt", "r")
 
     data = f.read()
