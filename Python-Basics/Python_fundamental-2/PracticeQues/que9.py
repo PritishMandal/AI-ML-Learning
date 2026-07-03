@@ -1,4 +1,4 @@
-def is_prime(n):
+def prime(n):
 
     if n < 2:
         return False
@@ -9,4 +9,4 @@ def is_prime(n):
 
     return True
 
-print(is_prime(7)) 
+print(prime(7)) 
