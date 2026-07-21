@@ -5,7 +5,11 @@ __pycache__/
 *.pyd
 
 # Jupyter Notebook
-.ipynb_checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+.virtual_documents/
+anaconda_projects/
+*.log
 
 # Virtual Environment
 venv/
