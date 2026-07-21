@@ -1,4 +1,4 @@
-#To take the input and print 
-name = input("Enter a your NAME")
+#To take the input and print
+name = input("Enter your name")
 age = input("Enter your age")
-print(name,age)
+print("Hello",name +",you are ",age,"years old!")
